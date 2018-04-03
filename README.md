@@ -1,0 +1,2 @@
+# scratchpad
+go programming scratchpad
